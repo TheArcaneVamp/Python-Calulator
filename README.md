@@ -3,7 +3,7 @@
 
 A very simple calculator application built using Python and the Tkinter library. This project is meant to demonstrate the use of basic GUI components, button actions, and evaluation of mathematical expressions in a simple and minimal calculator layout.
 
-![Calculator Screenshot](screenshot1.png)
+![Calculator Screenshot](screenshot1)
 
 ---
 
